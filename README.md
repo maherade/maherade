@@ -26,15 +26,15 @@ Mattar is the first application of its kind to follow all the new weather,
 as it contains written weather forecast.
 Various weather maps (cloud movement, rain radar, rain forecast, wind forecast, temperature forecast) weather photos and videos.
 
-<p><a href="https://play.google.com/store/apps/details?id=watan.app.wfi" target="_blank"><img alt="Google Play" src="https://play.google.com/store/apps/details?id=my.app.mattar" /></a>
+<p><a href="https://play.google.com/store/apps/details?id=my.app.mattar" target="_blank"><img alt="Google Play" src="https://play.google.com/store/apps/details?id=my.app.mattar" /></a>
  
 
 
 
 ### Gas Plus
 Order from Gas Plus Looking for the quickest GAS Tools delivery, That’s easy with our Gas Plus app.
-<p><a href="https://play.google.com/store/apps/details?id=com.gas.gas" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/app/gas-plus/id1662697146" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
- 
+<p><a href="https://play.google.com/store/apps/details?id=com.gas.gas" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/app/gas-plus/id1662697146" target="_blank"><img alt="App Store"
+                                                                                                                                                                                                                                                                                                                 
 <hr>
 
 ### Nissan Group - نيسان كروب
