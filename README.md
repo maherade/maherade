@@ -26,7 +26,7 @@ Mattar is the first application of its kind to follow all the new weather,
 as it contains written weather forecast.
 Various weather maps (cloud movement, rain radar, rain forecast, wind forecast, temperature forecast) weather photos and videos.
 
-<p><a href="https://play.google.com/store/apps/details?id=my.app.mattar" target="_blank"><img alt="Google Play" src="https://play.google.com/store/apps/details?id=my.app.mattar" /></a>
+<p><a href="https://play.google.com/store/apps/details?id=my.app.mattar"/a>
  
 
 
